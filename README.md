@@ -21,5 +21,5 @@ It allows the player to deposit money, place bets on 1–3 lines, and spin the s
 1. **Install [Node.js](https://nodejs.org/) (v14 or higher)**
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/slot-machine-game.git
+   git clone https://github.com/andreasvarl/slot-machine-game.git
    cd slot-machine-game
